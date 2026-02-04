@@ -1,0 +1,19 @@
+{
+  "name": "ai-table-extractor-frontend",
+  "version": "1.0.0",
+  "description": "Beautiful frontend for AI-powered table extraction from images",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "ai",
+    "vgg16",
+    "table-extraction",
+    "image-processing",
+    "frontend"
+  ],
+  "author": "",
+  "license": "MIT"
+}
